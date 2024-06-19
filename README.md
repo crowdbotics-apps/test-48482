@@ -75,6 +75,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-openai](backend/modules)
 - [django-ocr](backend/modules)
 - [terms-and-conditions]()
+- [faq]()
 
 # Getting started: Frontend
 
